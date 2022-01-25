@@ -1,0 +1,29 @@
+div {
+  border-color: blue;
+  border-style: dashed;
+  font-family: cursive;
+  padding: 25px;
+}
+img {
+  border-radius: 50px;
+}
+li {
+  margin: 10px;
+  font-style: italic;
+}
+
+#juan {
+  color: fuchsia;
+  text-shadow: 5px 5px 0px yellow;
+  background-color: hsl(177, 84%, 48%);
+}
+
+#jesse {
+  color: green;
+  text-shadow: 5px 5px 0px pink;
+  background-color: hsl(59, 86%, 48%);
+}
+
+body {
+  background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=1.00xw:0.669xh;0,0.190xh&resize=1200:*");
+}
